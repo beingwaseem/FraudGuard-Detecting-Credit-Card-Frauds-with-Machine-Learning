@@ -1,4 +1,4 @@
-# FraudGuard:-Detecting-Credit-Card-Frauds-with-Machine-Learning
+# FraudGuard: Detecting Credit Card Frauds with Machine Learning
 
 ## Introduction
 This project focuses on developing a Credit Card Fraud Detection system using machine learning techniques. The dataset used contains information about credit card transactions made by European cardholders in September 2013. The goal is to build models, specifically Decision Tree and Support Vector Machine (SVM), to predict whether a transaction is fraudulent or legitimate.
