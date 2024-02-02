@@ -45,3 +45,5 @@ Feel free to fork, contribute, or use this project as a reference for your own f
 <p align="left">
 <a href="https://twitter.com/immalikwaseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="immalikwaseem" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/hafiz-waseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafiz-waseem" height="30" width="40" /></a>
+<a href="https://medium.com/@immalikwaseem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@immalikwaseem" height="30" width="40" /></a>
+</p>
